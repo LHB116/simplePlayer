@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     //}
     // D:\Project\FFmpeg\file    
     // audio_video_sync_test.mp4  Iron_Man-Trailer_HD.mp4   tesst.mp4
-    const char* file = "D:/Project/C++/player/IronMan.mp4";
+    const char* file = "D:/Project/C++/player/files/IronMan.mp4";
     printf("Try playing %s ...\n", file);
     player_running(file);
 
